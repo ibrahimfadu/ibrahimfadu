@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Building projects*
 
-- 🌱 I’m currently learning *Numpy, Pandas, TensorFlow*
+- 🌱 I’m currently learning *TensorFlow*
 
 - 📝 I regularly write posts on [x.com/Ibrahimfadu](X.com/Ibrahimfadu)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *ik09012006@gmail.com*
 
-- ⚡ Fun fact *I like to watch anume*
+- ⚡ Fun fact *I like to watch anime*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
